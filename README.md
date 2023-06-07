@@ -5,7 +5,8 @@ Tristate ADT - Version 1.1
 - Added JavaDoc
 - Corrected headers (explanations)
 
-# Description:
+# Description
 Number and Tristate implementations
 
-Thanks for downloading :) ~ AntonioDA2004
+Thanks for downloading :) 
+~ AntonioDA2004
