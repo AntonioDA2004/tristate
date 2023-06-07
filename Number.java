@@ -1,3 +1,9 @@
+/**
+ * Number is a class that encapsulates an int.
+ *
+ * @author Antonio De Angelis
+ * @version 1.1
+ */
 public class Number {
 
     private int dato;
