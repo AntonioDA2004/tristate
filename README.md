@@ -1,5 +1,5 @@
 # tristate
-Tristate ADT - Version 1.1
+Tristate ADT
 
 # Version 1.1
 - Added JavaDoc
