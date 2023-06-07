@@ -18,6 +18,8 @@ public class Tristate2 {
     private static final Tristate TRUE = Tristate.TRUE;
     private static final Tristate ZERO = Tristate.ZERO;
 
+    // New implementation with Tristate ATD
+    
     public static Tristate PositivoONegativo(Number number){
 
         Tristate tristate = Tristate.ZERO;
