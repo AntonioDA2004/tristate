@@ -1,3 +1,9 @@
+/**
+ * Tristate2 is a class that manages all the functions related to the Tristate.
+ *
+ * @author Antonio De Angelis
+ * @version 1.1
+ */
 public class Tristate2 {
 
     public static void main(String[] args) {
