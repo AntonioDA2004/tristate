@@ -36,7 +36,6 @@ public class Number {
         }
     }
     
-    // New implementation with TAD Tristate
     public int PositivoONegativo(){
 
         Number number0 = new Number(0);
